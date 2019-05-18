@@ -3,14 +3,16 @@
 This is data from a short test flight with an accelerometer and the
 airdata probe, as documented at:
 
-  http://www.airball.aero/2019/04/accelerometer-and-airdata-comparison.html
+http://www.airball.aero/2019/04/accelerometer-and-airdata-comparison.html
+
+The altimeter setting was 29.86 in Hg = 101117.57 Pascals.
 
 The program `read_serial.py` was what we used to read serial data from
 the accelerometer (sent by the Arduino) and print to `stdout`. The
 data from the probe was collected using the `log_telemetry` program
 from the main repo.
 
-The raw data is in two files, where they timestamps are synchronized
+The raw data is in two files, where the timestamps are synchronized
 since they are collected on the same PC. These files are:
 
 ## `accelerometer-log.csv`
@@ -49,3 +51,26 @@ timestamp, rssi, seq, baro, temperature, dp0, dpA, dpB
 
 * `dp0`, `dpA`, `dpB` -- Delta pressures from the probe nose in
   Pascals.
+
+# Accelerometer calibration
+
+We calibrated the accelerometer as described by SparkFun at
+
+  https://learn.sparkfun.com/tutorials/adxl345-hookup-guide/all
+
+and the result (for X, Y, and Z, respectively), is:
+
+```
+Accel Minimums: -257  -249  -264
+Accel Maximums: 261  271  234
+```
+
+For any one axis, we define:
+
+```
+offset = 0.5 * (max + min)
+gain = 0.5 * (max - min)
+
+calibrated_value[i] = (raw_value[i] - offset) / gain
+```
+
