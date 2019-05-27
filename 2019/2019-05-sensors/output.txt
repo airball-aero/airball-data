@@ -1,0 +1,64 @@
+DLHR-L10D E1BD-C NAV8 R17B06-07 (13) [Fio probe dpA]
+-10.0 inH2O =>  -9.983 inH2O, min= -0.017 %fs, max= +0.018 %fs, err=  +0.086 %fs
+-10.0 inH2O =>  -9.966 inH2O, min= -0.026 %fs, max= +0.026 %fs, err=  +0.169 %fs
+ +0.0 inH2O =>  -0.045 inH2O, min= -0.006 %fs, max= +0.006 %fs, err=  -0.225 %fs
++10.0 inH2O =>  +9.937 inH2O, min= -0.022 %fs, max= +0.022 %fs, err=  -0.313 %fs
++10.0 inH2O =>  +9.885 inH2O, min= -0.021 %fs, max= +0.024 %fs, err=  -0.574 %fs
+DLHR-L10G E1BD-C NAV8 R16K11-34 (15) [Fio probe dp0]
+ +0.0 inH2O =>  +0.013 inH2O, min= -0.014 %fs, max= +0.011 %fs, err=  +0.129 %fs
+ +0.0 inH2O =>  +0.013 inH2O, min= -0.012 %fs, max= +0.014 %fs, err=  +0.127 %fs
+ +5.0 inH2O =>  +5.010 inH2O, min= -0.025 %fs, max= +0.039 %fs, err=  +0.103 %fs
++10.0 inH2O => +10.012 inH2O, min= -0.033 %fs, max= +0.034 %fs, err=  +0.123 %fs
+DLHR-L10D E1BD-C NAV8 R17B06-07 (12) [Fio probe dpB]
+-10.0 inH2O => -10.036 inH2O, min= -0.009 %fs, max= +0.012 %fs, err=  -0.180 %fs
+-10.0 inH2O =>  -9.981 inH2O, min= -0.011 %fs, max= +0.011 %fs, err=  +0.097 %fs
+ -5.0 inH2O =>  -5.052 inH2O, min= -0.007 %fs, max= +0.009 %fs, err=  -0.258 %fs
+ +0.0 inH2O =>  -0.010 inH2O, min= -0.007 %fs, max= +0.006 %fs, err=  -0.049 %fs
+ +5.0 inH2O =>  +5.043 inH2O, min= -0.014 %fs, max= +0.012 %fs, err=  +0.215 %fs
++10.0 inH2O =>  +9.922 inH2O, min= -0.012 %fs, max= +0.013 %fs, err=  -0.388 %fs
+DLHR-L30D E1BD-C NAV8 R16L14-46 (5) [Flying probe #1 dpB]
+-15.0 inH2O => -15.458 inH2O, min= -0.012 %fs, max= +0.012 %fs, err=  -0.764 %fs
+-15.0 inH2O => -15.466 inH2O, min= -0.012 %fs, max= +0.014 %fs, err=  -0.777 %fs
+-10.0 inH2O => -10.586 inH2O, min= -0.011 %fs, max= +0.010 %fs, err=  -0.976 %fs
+ -5.0 inH2O =>  -5.569 inH2O, min= -0.010 %fs, max= +0.011 %fs, err=  -0.949 %fs
+ +0.0 inH2O =>  -0.527 inH2O, min= -0.009 %fs, max= +0.011 %fs, err=  -0.878 %fs
+ +5.0 inH2O =>  +4.432 inH2O, min= -0.011 %fs, max= +0.012 %fs, err=  -0.947 %fs
++10.0 inH2O =>  +9.428 inH2O, min= -0.012 %fs, max= +0.012 %fs, err=  -0.954 %fs
++15.0 inH2O => +14.345 inH2O, min= -0.011 %fs, max= +0.014 %fs, err=  -1.092 %fs
+DLHR-L30D E1BD-C NAV8 R16L14-46 (4) [Flying probe #1 dpA]
+-15.0 inH2O => -15.006 inH2O, min= -0.014 %fs, max= +0.015 %fs, err=  -0.010 %fs
+-10.0 inH2O =>  -9.970 inH2O, min= -0.012 %fs, max= +0.010 %fs, err=  +0.051 %fs
+ -5.0 inH2O =>  -5.046 inH2O, min= -0.009 %fs, max= +0.009 %fs, err=  -0.076 %fs
+ +0.0 inH2O =>  -0.016 inH2O, min= -0.008 %fs, max= +0.009 %fs, err=  -0.026 %fs
+ +5.0 inH2O =>  +4.958 inH2O, min= -0.012 %fs, max= +0.013 %fs, err=  -0.070 %fs
++10.0 inH2O =>  +9.958 inH2O, min= -0.010 %fs, max= +0.010 %fs, err=  -0.070 %fs
++15.0 inH2O => +14.935 inH2O, min= -0.013 %fs, max= +0.011 %fs, err=  -0.109 %fs
+DLHR-L30G E1BD-C NAV8 R16K17-23 (6) [Flying probe #1 dp0]
+ +0.0 inH2O =>  +0.102 inH2O, min= -0.007 %fs, max= +0.009 %fs, err=  +0.339 %fs
+ +0.0 inH2O =>  +0.101 inH2O, min= -0.008 %fs, max= +0.008 %fs, err=  +0.338 %fs
+ +5.0 inH2O =>  +5.115 inH2O, min= -0.072 %fs, max= +0.015 %fs, err=  +0.382 %fs
++10.0 inH2O => +10.110 inH2O, min= -0.048 %fs, max= +0.011 %fs, err=  +0.366 %fs
++15.0 inH2O => +15.035 inH2O, min= -0.014 %fs, max= +0.012 %fs, err=  +0.118 %fs
+DLHR-L30D E1BD-C NAV8 R16L14-46 (9) [Flying probe #2 dpB]
+-15.0 inH2O => -14.190 inH2O, min= -0.010 %fs, max= +0.010 %fs, err=  +1.350 %fs
+-10.0 inH2O =>  -9.286 inH2O, min= -0.011 %fs, max= +0.010 %fs, err=  +1.190 %fs
+ -5.0 inH2O =>  -4.274 inH2O, min= -0.013 %fs, max= +0.011 %fs, err=  +1.211 %fs
+ +0.0 inH2O =>  +0.741 inH2O, min= -0.011 %fs, max= +0.010 %fs, err=  +1.235 %fs
+ +5.0 inH2O =>  +5.711 inH2O, min= -0.013 %fs, max= +0.012 %fs, err=  +1.185 %fs
++10.0 inH2O => +10.677 inH2O, min= -0.014 %fs, max= +0.016 %fs, err=  +1.129 %fs
++15.0 inH2O => +15.671 inH2O, min= -0.013 %fs, max= +0.014 %fs, err=  +1.118 %fs
+DLHR-L30D E1BD-C NAV8 R16L14-46 (8) [Flying probe #2 dpA]
+-15.0 inH2O => -14.755 inH2O, min= -0.014 %fs, max= +0.014 %fs, err=  +0.409 %fs
+-10.0 inH2O =>  -9.842 inH2O, min= -0.011 %fs, max= +0.011 %fs, err=  +0.264 %fs
+ -5.0 inH2O =>  -4.840 inH2O, min= -0.008 %fs, max= +0.011 %fs, err=  +0.267 %fs
+ +0.0 inH2O =>  +0.195 inH2O, min= -0.009 %fs, max= +0.009 %fs, err=  +0.325 %fs
+ +5.0 inH2O =>  +5.159 inH2O, min= -0.010 %fs, max= +0.011 %fs, err=  +0.266 %fs
++10.0 inH2O => +10.115 inH2O, min= -0.013 %fs, max= +0.013 %fs, err=  +0.192 %fs
++15.0 inH2O => +15.115 inH2O, min= -0.013 %fs, max= +0.013 %fs, err=  +0.192 %fs
+DLHR-L30G E1BD-C NAV8 R16K17-23 (10) [Flying probe #2 dp0]
+ +0.0 inH2O =>  +0.047 inH2O, min= -0.008 %fs, max= +0.008 %fs, err=  +0.156 %fs
+ +0.0 inH2O =>  +0.047 inH2O, min= -0.009 %fs, max= +0.008 %fs, err=  +0.155 %fs
+ +5.0 inH2O =>  +5.083 inH2O, min= -0.012 %fs, max= +0.012 %fs, err=  +0.276 %fs
++10.0 inH2O => +10.064 inH2O, min= -0.016 %fs, max= +0.017 %fs, err=  +0.213 %fs
++15.0 inH2O => +14.972 inH2O, min= -0.015 %fs, max= +0.014 %fs, err=  -0.094 %fs
++15.0 inH2O => +14.986 inH2O, min= -0.024 %fs, max= +0.025 %fs, err=  -0.048 %fs
