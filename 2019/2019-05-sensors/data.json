@@ -1,0 +1,147 @@
+[
+    {
+	"type": "DLHR-L10D E1BD-C NAV8 R17B06-07",
+	"id": "13",
+	"notes": "Fio probe dpA",
+	"gage": false,
+	"fss": 10,
+	"temp": 18,
+	"measurements": [
+	    { "applied": -10, "cmin": 1687040, "cavg": 1689297, "cmax": 1691648 },
+	    { "applied": -10, "cmin": 1696896, "cavg": 1700432, "cmax": 1703872 },
+	    { "applied": 0, "cmin": 8357696, "cavg": 8358455, "cmax": 8359296 },
+	    { "applied": 10, "cmin": 15054528, "cavg": 15057489, "cmax": 15060416 },
+	    { "applied": 10, "cmin": 15019584, "cavg": 15022443, "cmax": 15025664 }
+	]
+    },
+    {
+	"type": "DLHR-L10G E1BD-C NAV8 R16K11-34",
+	"id": "15",
+	"notes": "Fio probe dp0",
+	"gage": true,
+	"fss": 10,
+	"temp": 18,
+	"measurements": [
+	    { "applied": 0, "cmin": 1693248, "cavg": 1695092, "cmax": 1696576 },
+	    { "applied": 0, "cmin": 1693120, "cavg": 1694718, "cmax": 1696576 },
+	    { "applied": 5, "cmin": 8399040, "cavg": 8402416, "cmax": 8407616 },
+	    { "applied": 10, "cmin": 15111552, "cavg": 15116020, "cmax": 15120576 }
+	]
+    },
+    {
+	"type": "DLHR-L10D E1BD-C NAV8 R17B06-07",
+	"id": "12",
+	"notes": "Fio probe dpB",
+	"gage": false,
+	"fss": 10,
+	"temp": 17.5,
+	"measurements": [
+	    { "applied": -10, "cmin": 1652288, "cavg": 1653551, "cmax": 1655104 },
+	    { "applied": -10, "cmin": 1689152, "cavg": 1690685, "cmax": 1692224 },
+	    { "applied": -5, "cmin": 4997568, "cavg": 4998537, "cmax": 4999744 },
+	    { "applied": 0, "cmin": 8380992, "cavg": 8381998, "cmax": 8382784 },
+	    { "applied": 5, "cmin": 11771072, "cavg": 11772903, "cmax": 11774528 },
+	    { "applied": 10, "cmin": 15045824, "cavg": 15047433, "cmax": 15049216 }
+	]
+    },
+    {
+	"type": "DLHR-L30D E1BD-C NAV8 R16L14-46",
+	"id": "5",
+	"notes": "Flying probe #1 dpB",
+	"gage": false,
+	"fss": 30,
+	"temp": 18,
+	"measurements": [
+	    { "applied": -15, "cmin": 4929024, "cavg": 4930676, "cmax": 4932288 },
+	    { "applied": -15, "cmin": 4927296, "cavg": 4928888, "cmax": 4930752 },
+	    { "applied": -10, "cmin": 6019136, "cavg": 6020643, "cmax": 6021952 },
+	    { "applied": -5, "cmin": 7141504, "cavg": 7142801, "cmax": 7144320 },
+	    { "applied": 0, "cmin": 8269632, "cavg": 8270805, "cmax": 8272256 },
+	    { "applied": 5, "cmin": 9378432, "cavg": 9379950, "cmax": 9381504 },
+	    { "applied": 10, "cmin": 10496000, "cavg": 10497575, "cmax": 10499200 },
+	    { "applied": 15, "cmin": 11596096, "cavg": 11597527, "cmax": 11599424 }
+	]
+    },
+    {
+	"type": "DLHR-L30D E1BD-C NAV8 R16L14-46",
+	"id": "4",
+	"notes": "Flying probe #1 dpA",
+	"gage": false,
+	"fss": 30,
+	"temp": 18,
+	"measurements": [
+	    { "applied": -15, "cmin": 5030016, "cavg": 5031843, "cmax": 5033856 },
+	    { "applied": -10, "cmin": 6156864, "cavg": 6158424, "cmax": 6159744 },
+	    { "applied": -5, "cmin": 7258688, "cavg": 7259926, "cmax": 7261120 },
+	    { "applied": 0, "cmin": 8384000, "cavg": 8385058, "cmax": 8386240 },
+	    { "applied": 5, "cmin": 9496128, "cavg": 9497743, "cmax": 9499456 },
+	    { "applied": 10, "cmin": 10614848, "cavg": 10616240, "cmax": 10617536 },
+	    { "applied": 15, "cmin": 11727744, "cavg": 11729485, "cmax": 11731008 }
+	]
+    },
+    {
+	"type": "DLHR-L30G E1BD-C NAV8 R16K17-23",
+	"id": "6",
+	"notes": "Flying probe #1 dp0",
+	"gage": true,
+	"fss": 30,
+	"temp": 18,
+	"measurements": [
+	    { "applied": 0, "cmin": 1722240, "cavg": 1723178, "cmax": 1724352 },
+	    { "applied": 0, "cmin": 1721984, "cavg": 1723052, "cmax": 1724160 },
+	    { "applied": 5, "cmin": 3956288, "cavg": 3965941, "cmax": 3968000 },
+	    { "applied": 10, "cmin": 6194304, "cavg": 6200775, "cmax": 6202304 },
+	    { "applied": 15, "cmin": 8402560, "cavg": 8404383, "cmax": 8405952 }
+	]
+    },
+    {
+	"type": "DLHR-L30D E1BD-C NAV8 R16L14-46",
+	"id": "9",
+	"notes": "Flying probe #2 dpB",
+	"gage": false,
+	"fss": 30,
+	"temp": 18,
+	"measurements": [
+	    { "applied": -15, "cmin": 5213056, "cavg": 5214348, "cmax": 5215680 },
+	    { "applied": -10, "cmin": 6309888, "cavg": 6311318, "cmax": 6312704 },
+	    { "applied": -5, "cmin": 7430912, "cavg": 7432632, "cmax": 7434048 },
+	    { "applied": 0, "cmin": 8552896, "cavg": 8554337, "cmax": 8555712 },
+	    { "applied": 5, "cmin": 9664448, "cavg": 9666138, "cmax": 9667776 },
+	    { "applied": 10, "cmin": 10775232, "cavg": 10777109, "cmax": 10779200 },
+	    { "applied": 15, "cmin": 11892416, "cavg": 11894169, "cmax": 11896064 }
+	]
+    },
+    {
+	"type": "DLHR-L30D E1BD-C NAV8 R16L14-46",
+	"id": "8",
+	"notes": "Flying probe #2 dpA",
+	"gage": false,
+	"fss": 30,
+	"temp": 18,
+	"measurements": [
+	    { "applied": -15, "cmin": 5086144, "cavg": 5088035, "cmax": 5089856 },
+	    { "applied": -10, "cmin": 6185536, "cavg": 6187060, "cmax": 6188480 },
+	    { "applied": -5, "cmin": 7304896, "cavg": 7305980, "cmax": 7307392 },
+	    { "applied": 0, "cmin": 8430912, "cavg": 8432176, "cmax": 8433344 },
+	    { "applied": 5, "cmin": 9541440, "cavg": 9542761, "cmax": 9544192 },
+	    { "applied": 10, "cmin": 10649664, "cavg": 10651389, "cmax": 10653120 },
+	    { "applied": 15, "cmin": 11768128, "cavg": 11769806, "cmax": 11771584 }
+	]
+    },
+    {
+	"type": "DLHR-L30G E1BD-C NAV8 R16K17-23",
+	"id": "10",
+	"notes": "Flying probe #2 dp0",
+	"gage": true,
+	"fss": 30,
+	"temp": 18,
+	"measurements": [
+	    { "applied": 0, "cmin": 1697600, "cavg": 1698615, "cmax": 1699648 },
+	    { "applied": 0, "cmin": 1697408, "cavg": 1698589, "cmax": 1699712 },
+	    { "applied": 5, "cmin": 3950144, "cavg": 3951785, "cmax": 3953344 },
+	    { "applied": 10, "cmin": 6178048, "cavg": 6180213, "cmax": 6182464 },
+	    { "applied": 15, "cmin": 8373952, "cavg": 8375935, "cmax": 8377792 },
+	    { "applied": 15, "cmin": 8378944, "cavg": 8382186, "cmax": 8385536 }
+	]
+    }
+]
