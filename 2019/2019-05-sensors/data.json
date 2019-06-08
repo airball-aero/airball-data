@@ -143,5 +143,60 @@
 	    { "applied": 15, "cmin": 8373952, "cavg": 8375935, "cmax": 8377792 },
 	    { "applied": 15, "cmin": 8378944, "cavg": 8382186, "cmax": 8385536 }
 	]
+    },
+    {
+	"type": "HSCDRRN040MD2A3",
+	"id": "11",
+	"notes": "Honeywell Sensor",
+	"gage": false,
+	"fss": 16.07459,
+	"temp": 23.5,
+	"measurements": [
+	    { "applied": -15, "cmin": 2094, "cavg": 2098, "cmax": 2104 },
+	    { "applied": -15, "cmin": 2092, "cavg": 2097, "cmax": 2104 },
+	    { "applied": -10, "cmin": 4129, "cavg": 4134, "cmax": 4142 },
+	    { "applied": -5, "cmin": 6154, "cavg": 6160, "cmax": 6168 },
+	    { "applied": 0, "cmin": 8173, "cavg": 8178, "cmax": 8186 },
+	    { "applied": 5, "cmin": 10181, "cavg": 10186, "cmax": 10191 },
+	    { "applied": 10, "cmin": 12213, "cavg": 12217, "cmax": 12225 },
+	    { "applied": 15, "cmin": 14235, "cavg": 14240, "cmax": 14245 },
+	    { "applied": 15, "cmin": 14232, "cavg": 14237, "cmax": 14242 }
+	]
+    },
+    {
+	"type": "HSCDRRN040MD2A3",
+	"id": "12",
+	"notes": "Honeywell Sensor",
+	"gage": false,
+	"fss": 16.07459,
+	"temp": 23,
+	"measurements": [
+	    { "applied": -15, "cmin": 2088, "cavg": 2095, "cmax": 2103 },
+	    { "applied": -10, "cmin": 4086, "cavg": 4092, "cmax": 4098 },
+	    { "applied": -5, "cmin": 6133, "cavg": 6138, "cmax": 6145 },
+	    { "applied": 0, "cmin": 8175, "cavg": 8181, "cmax": 8188 },
+	    { "applied": 5, "cmin": 10203, "cavg": 10208, "cmax": 10214 },
+	    { "applied": 10, "cmin": 12239, "cavg": 12245, "cmax": 12252 },
+	    { "applied": 15, "cmin": 14255, "cavg": 14261, "cmax": 14267 }
+	]
+    },
+    {
+	"type": "HSCDRRN040MD2A3",
+	"id": "12",
+	"notes": "Honeywell Sensor",
+	"gage": false,
+	"fss": 16.07459,
+	"temp": 22,
+	"measurements": [
+	    { "applied": -15, "cmin": 2102, "cavg": 2109, "cmax": 2117 },
+	    { "applied": -15, "cmin": 2097, "cavg": 2101, "cmax": 2109 },
+	    { "applied": -10, "cmin": 4097, "cavg": 4103, "cmax": 4110 },
+	    { "applied": -5, "cmin": 6152, "cavg": 6161, "cmax": 6169 },
+	    { "applied": 0, "cmin": 8176, "cavg": 8180, "cmax": 8186 },
+	    { "applied": 5, "cmin": 10221, "cavg": 10224, "cmax": 10230 },
+	    { "applied": 10, "cmin": 12222, "cavg": 12226, "cmax": 12232 },
+	    { "applied": 15, "cmin": 14237, "cavg": 14246, "cmax": 14252 },
+	    { "applied": 15, "cmin": 14212, "cavg": 14243, "cmax": 14254 }
+	]
     }
 ]
