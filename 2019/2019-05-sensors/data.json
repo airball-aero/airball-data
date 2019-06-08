@@ -146,7 +146,7 @@
     },
     {
 	"type": "HSCDRRN040MD2A3",
-	"id": "11",
+	"id": "21",
 	"notes": "Honeywell Sensor",
 	"gage": false,
 	"fss": 16.07459,
@@ -165,7 +165,7 @@
     },
     {
 	"type": "HSCDRRN040MD2A3",
-	"id": "12",
+	"id": "22",
 	"notes": "Honeywell Sensor",
 	"gage": false,
 	"fss": 16.07459,
@@ -182,7 +182,7 @@
     },
     {
 	"type": "HSCDRRN040MD2A3",
-	"id": "12",
+	"id": "23",
 	"notes": "Honeywell Sensor",
 	"gage": false,
 	"fss": 16.07459,
