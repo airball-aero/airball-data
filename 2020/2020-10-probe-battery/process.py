@@ -10,15 +10,20 @@ def read_results(filename):
     result['current'] = []
     start = -1
     for row in csv.reader(open(filename), delimiter=','):
-        time = float(row[0]) / 3600.0
-        if start < 0:
-            start = time
-            time = 0.0
-        else:
-            time = time - start
+        try:
+            time = float(row[0]) / 3600.0
+            if start < 0:
+                start = time
+                time = 0.0
+            else:
+                time = time - start
+            voltage = float(row[2])
+            current = float(row[3])
+        except:
+            continue
         result['time'].append(time)
-        result['voltage'].append(float(row[2]))
-        result['current'].append(float(row[3]))
+        result['voltage'].append(voltage)
+        result['current'].append(current)
     return result
 
 def plot(filename):
@@ -40,3 +45,4 @@ def plot(filename):
     plt.savefig(filename + '.png', dpi=300)
     
 plot('battery-drain')
+plot('battery-charge')
